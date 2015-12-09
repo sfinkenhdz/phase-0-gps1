@@ -12,4 +12,8 @@ what is x
 
 ![Screen Shot](/Screen-Shot-GPS1-1.png "Screen Shot GPS")
 
-making CONFLICT CHANGES OH MY!
+
+
+
+I WANTED MASTER CHANGES MEOW!
+
