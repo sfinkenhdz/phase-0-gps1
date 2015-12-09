@@ -10,4 +10,4 @@ what is x
 ```
 [Visit Google](https://www.google.com).
 
-![Screen Shot](/Sarah%20and%20Ty%20GPS1-1.png "Screen Shot GPS")
+![Screen Shot](/Screen-Shot-GPS1-1.png "Screen Shot GPS")
