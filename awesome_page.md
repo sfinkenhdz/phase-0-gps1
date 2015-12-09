@@ -11,3 +11,5 @@ what is x
 [Visit Google](https://www.google.com).
 
 ![Screen Shot](/Screen-Shot-GPS1-1.png "Screen Shot GPS")
+
+making CONFLICT CHANGES OH MY!
